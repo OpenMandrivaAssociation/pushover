@@ -1,6 +1,6 @@
 Name:		pushover
-Version:	0.0.4
-Release:	2
+Version:	0.0.5
+Release:	1
 Summary:	Fun puzzle game with dominos
 Group:		Games/Puzzles
 License:	GPLv3
