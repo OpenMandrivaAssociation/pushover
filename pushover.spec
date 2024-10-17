@@ -4,7 +4,7 @@ Release:	1
 Summary:	Fun puzzle game with dominos
 Group:		Games/Puzzles
 License:	GPLv3
-URL:		http://pushover.sourceforge.net/
+URL:		https://pushover.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 Source1:	%{name}.desktop
 
